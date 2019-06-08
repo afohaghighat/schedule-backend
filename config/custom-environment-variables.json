@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "scheduler_jwtPrivateKey",
+    "db": "scheduler_db"
+}
